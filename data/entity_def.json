@@ -1,0 +1,16 @@
+{
+    "npc_villager":{
+        "id":"npc_villager",
+        "name":"村民",
+        "kind":"npc",
+        "hp":20,
+        "sprite":[400,16,16,16]
+    },
+    "enemy_slime":{
+        "id":"enemy_slime",
+        "name":"史莱姆",
+        "kind":"enemy",
+        "hp":8,
+        "sprite":[432,128,16,16]
+    }
+}

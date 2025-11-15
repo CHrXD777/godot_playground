@@ -1,0 +1,9 @@
+{
+    "player": {
+        "id":"player",
+        "name":"Hero",
+        "kind":"player",
+        "hp":20,
+        "sprite":[416, 0, 16, 16],
+    },
+}
